@@ -1,2 +1,2 @@
 # myblog
-基于springboot的分人博客
+基于springboot的个人博客
